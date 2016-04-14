@@ -1,0 +1,6 @@
+puts "What do you want?"
+
+  def annoying_sibling(echo)
+    if echo != "I'm a dummy!"
+      puts gets
+  end
